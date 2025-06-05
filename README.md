@@ -18,7 +18,7 @@ Currently leading CX projects for Latin America at **DuPont**, where I collabora
 ---
 
 ## 🙋🏼‍♀️ About me
-- Art lover and enjou spinning classes
+- Art lover and enjoy spinning classes
 
 ---
 
