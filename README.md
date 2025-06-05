@@ -3,7 +3,7 @@
 Product Owner with a background in Marketing and Customer Experience.  
 Currently leading CX projects for Latin America at **DuPont**, where I collaborate closely with development teams to deliver digital solutions.
 
-Recent projects include:
+👩🏻‍💻 Recent projects include:
 - The **SafeSPEC™** mobile app
 - A customer support **chatbot** integrated into our service journey
 
