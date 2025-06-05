@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Kelly Bregensk 👋
 
-<!--
-**kellybregensk/kellybregensk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Owner with a background in Marketing and Customer Experience.  
+Currently leading CX projects for Latin America at **DuPont**, where I collaborate closely with development teams to deliver digital solutions.
 
-Here are some ideas to get you started:
+Recent projects include:
+- The **SafeSPEC™** mobile app
+- A customer support **chatbot** integrated into our service journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Background
+
+- BA in Advertising and Marketing – ESPM São Paulo, Brazil  
+- Full Stack Web Development – EBAC (British School of Creative Arts and Technology) 
+- Languages: Portuguese, English and Spanish
+
+---
+
+## 🙋🏼‍♀️ About me
+- Art lover and enjou spinning classes
+
+---
+
+## 🌐 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/kellybregensk)  
+- 📫 Email: kellybregensk@gmail.com  
+- [GitHub Portfolio](https://github.com/kellybregensk?tab=repositories)
